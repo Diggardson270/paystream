@@ -2,10 +2,6 @@
 
 Global payroll on Stellar. Pay distributed teams in stablecoins, settle in 47 local currencies, close the books on time.
 
-[![status](https://img.shields.io/badge/status-production-green.svg)](https://status.paystream.dev)
-[![license](https://img.shields.io/badge/license-BSL--1.1-orange.svg)](LICENSE)
-[![Go Report](https://goreportcard.com/badge/github.com/breedar/paystream)](https://goreportcard.com/report/github.com/breedar/paystream)
-
 ## Capabilities
 
 | Capability | Status |
