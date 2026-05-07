@@ -1,9 +1,12 @@
 package main
 
-import "log"
+import (
+	"log"
+	"time"
+)
 
 func main() {
-	log.Println("paystream-worker starting")
+	log.Printf("paystream-worker starting at %s", time.Now().UTC().Format(time.RFC3339))
 	// Background jobs land here: Horizon polling, signing queue, webhook delivery.
 	select {}
 }
